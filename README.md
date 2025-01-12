@@ -7,7 +7,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project.
 
 ## Table of Contents
-- [Installatiom](Installation)
+- [Installatiom](#Installation)
 - [Usuage](Usuage)
 - [License](License)
 - [Contributing](Contributing)
@@ -32,7 +32,5 @@ SO THAT I can quickly create a professional README for a new project.
 ## Questions
 If you have any questions feel free to reach me at the following:
 - Email: jacjalen16@gmail.com
-- GitHub: JalenKAgain
-- Instagram: p.o.d.d_obsessions
 
 

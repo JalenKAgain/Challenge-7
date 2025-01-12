@@ -1,5 +1,5 @@
 # Professional README Generator
-![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
+![Static Badge](https://img.shields.io/badge/License-MIT-orange)
 
 ## Description
 As A developer

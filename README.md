@@ -1,18 +1,18 @@
 # Professional README Generator
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
 
-## About
+## Description
 As A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project.
 
 ## Table of Contents
 - [Installatiom](#Installation)
-- [Usuage](Usuage)
-- [License](License)
-- [Contributing](Contributing)
-- [Tests](Tests)
-- [Questions](Questions)
+- [Usuage](#Usuage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
         
 ## Installation
 

@@ -8,7 +8,7 @@ SO THAT I can quickly create a professional README for a new project.
 
 ## Table of Contents
 - [Installatiom](#Installation)
-- [Usuage](#Usuage)
+- [Usage](#Usage)
 - [License](#License)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
